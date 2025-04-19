@@ -2,7 +2,7 @@
 // console.log(friends.length)
 // // TO add a  new name to the end 
 // friends.push('Mama')
-// // To add to the beginning
+// // To add to the beginning  
 // friends.unshift('Papa')
 // // To remove from the end
 // friends.pop()
